@@ -100,7 +100,7 @@ function Building3DViewer({ thickness, greenOn }) {
         mozAllowFullScreen="true" 
         webkitAllowFullScreen="true" 
         allow="autoplay; fullscreen; xr-spatial-tracking" 
-        src="https://sketchfab.com/models/2d0e2b5fd5474770b953cbf23835624a/embed"
+        src="https://sketchfab.com/models/6f5216d1af3541329d8537b7e738ef30/embed"
         style={{ 
           width: "100%", 
           height: "100%", 
