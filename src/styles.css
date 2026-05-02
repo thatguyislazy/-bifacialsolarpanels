@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+}
+
+.layout {
+  display: flex;
+}
+
+.viewer {
+  width: 70%;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 30%;
+  padding: 20px;
+  background: #1e293b;
+}
